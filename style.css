@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main .s4 .box {
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    width: 1120px;
+    height: 425px;
+    border-radius: 24px;
+    margin: auto;
+    margin-top: 200px;
+    color: aliceblue;
+}
+main .s4 .box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    gap: 100px;
+    line-height: 30px;
+}
+main .s4 .son{
+ display: flex;
+ align-items: center;
+ justify-content: center; 
+}
+main .s5 .cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 34px;
+}
+main .s5 .card {
+    width: 350px;
+    height: 512px;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px 0px rgb(102, 102, 102);
+    margin-top: 79px;
+    margin-bottom: 69px;   
+}
+main .s5 button{
+    display: block;
+    margin: auto;
+    margin-bottom: 107px;
+}
+main .s5 img{
+    border-radius: 1px;
+}
+main .s5 .card h3, p, p{
+    padding: 20px;
+}
+main .s5 .card .p{
+    color: #4089ED;
+    font-family: Mulish;
+font-weight: 600;
+font-size: 17px;
+
+}
+main .s5 .card p{
+    font-family: Mulish;
+font-weight: 300;
+font-size: 16px;
+color: #7D7987;
+}
+main .s5 .card h3{
+    font-family: Mulish;
+font-weight: 700;
+font-size: 21px;
+
+}
+main .s5 button{
+    border: 1.4px solid #458FF6;
+    width: 200px;
+height: 56px;
+border-radius: 55px;
+border-width: 1.4px;
+background-color: white;
+}
+main .s5{
+     margin-top: 280px;
+}
